@@ -1,0 +1,9 @@
+@extends('adminlte::page')
+
+@section('content')
+
+<link rel="stylesheet" type="text/css" href="{{URL::asset('css/bootstrap.min.css')}}">
+
+<h1>title</h1>
+  
+@endsection
